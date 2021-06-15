@@ -17,9 +17,9 @@ google-maps-react
 
 ### Handel carousel in 3 screens
 I collect all numbers that control in the carousel in state of array and setState in every screen
- Markup : * pc screen :  setScreenLmts([2, 6, 2, 3, 0])
-          * tab screen : setScreenLmts([1, 4, 1, 2, 0])
-          * phone screen :  setScreenLmts([0, 2, 0, 1, 0])
+ * pc screen :  setScreenLmts([2, 6, 2, 3, 0])
+ * tab screen : setScreenLmts([1, 4, 1, 2, 0])
+ * phone screen :  setScreenLmts([0, 2, 0, 1, 0])
           
 screenLmts       | Explanation
 -------------    | -------------
